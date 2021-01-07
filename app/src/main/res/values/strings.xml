@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alura Viagens</string>
+    <string name="banner_de_fundo_roxo">Banner de fundo roxo</string>
+    <string name="especiais">Especiais</string>
+    <string name="pais">Brasil</string>
+    <string name="foto_do_local_de_viagem">Foto do local de viagem</string>
+</resources>
