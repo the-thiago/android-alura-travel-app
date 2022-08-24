@@ -69,9 +69,9 @@ public class ListaPacotesAdapter extends BaseAdapter {
         TextView dias = viewCriada.findViewById(R.id.item_pacote_dias);
         int quantidadeDeDias = pacote.getDias();
         if (quantidadeDeDias == 1) {
-            dias.setText(quantidadeDeDias + " dia");
+            dias.setText(quantidadeDeDias + " day");
         } else {
-            dias.setText(quantidadeDeDias + " dias");
+            dias.setText(quantidadeDeDias + " days");
         }
     }
 

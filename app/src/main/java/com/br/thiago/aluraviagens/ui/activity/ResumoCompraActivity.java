@@ -22,7 +22,7 @@ import static com.br.thiago.aluraviagens.ui.activity.PacoteActivityConstantes.CH
 
 public class ResumoCompraActivity extends AppCompatActivity {
 
-    public static final String TITULO_APP_BAR = "Resumo da compra";
+    public static final String TITULO_APP_BAR = "Purchase summary";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

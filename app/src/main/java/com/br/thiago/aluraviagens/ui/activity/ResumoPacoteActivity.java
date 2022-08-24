@@ -23,7 +23,7 @@ import static com.br.thiago.aluraviagens.ui.activity.PacoteActivityConstantes.CH
 
 public class ResumoPacoteActivity extends AppCompatActivity {
 
-    public static final String TITULO_APP_BAR = "Resumo do pacote";
+    public static final String TITULO_APP_BAR = "Purchase summary";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -83,7 +83,7 @@ public class ResumoPacoteActivity extends AppCompatActivity {
         String dataFormatadaIda = formatoBrasileiroData.format(dataIda.getTime());
         String dataFormatadaVolta = formatoBrasileiroData.format(dataVolta.getTime());
         return dataFormatadaIda + " - "
-                + dataFormatadaVolta + " de " + dataVolta.get(Calendar.YEAR);
+                + dataFormatadaVolta + " to " + dataVolta.get(Calendar.YEAR);
     }
 
     private void mostraPreco(Pacote pacote) {
@@ -95,7 +95,7 @@ public class ResumoPacoteActivity extends AppCompatActivity {
 
     private void mostraDias(Pacote pacote) {
         TextView dias = findViewById(R.id.resumo_pacote_dias);
-        dias.setText(pacote.getDias() + " dias");
+        dias.setText(pacote.getDias() + " days");
     }
 
     private void mostraImagem(Pacote pacote) {

@@ -17,7 +17,7 @@ import static com.br.thiago.aluraviagens.ui.activity.PacoteActivityConstantes.CH
 
 public class ListaPacotesActivity extends AppCompatActivity {
 
-    public static final String TITULO_APP_BAR = "Pacotes";
+    public static final String TITULO_APP_BAR = "Packages";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

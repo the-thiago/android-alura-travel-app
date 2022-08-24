@@ -19,7 +19,7 @@ import static com.br.thiago.aluraviagens.ui.activity.PacoteActivityConstantes.CH
 
 public class PagamentoActivity extends AppCompatActivity {
 
-    public static final String TITULO_APP_BAR = "Pagamento";
+    public static final String TITULO_APP_BAR = "Payment";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

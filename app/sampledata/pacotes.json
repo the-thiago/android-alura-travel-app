@@ -3,37 +3,37 @@
     {
       "local": "São Paulo",
       "imagem": "@drawable/sao_paulo_sp",
-      "dias": "2 dias",
+      "dias": "2 days",
       "preco": "R$ 243,99"
     },
     {
       "local": "Belo Horizonte",
       "imagem": "@drawable/belo_horizonte_mg",
-      "dias": "3 dias",
+      "dias": "3 days",
       "preco": "R$ 421,50"
     },
     {
       "local": "Recife",
       "imagem": "@drawable/recife_pe",
-      "dias": "4 dias",
+      "dias": "4 days",
       "preco": "R$ 754,20"
     },
     {
       "local": "Rio de Janeiro",
       "imagem": "@drawable/rio_de_janeiro_rj",
-      "dias": "6 dias",
+      "dias": "6 days",
       "preco": "R$ 532,55"
     },
     {
       "local": "Salvador",
       "imagem": "@drawable/salvador_ba",
-      "dias": "5 dias",
+      "dias": "5 days",
       "preco": "R$ 899,99"
     },
     {
       "local": "Foz do Iguaçu",
       "imagem": "@drawable/foz_do_iguacu_pr",
-      "dias": "1 dia",
+      "dias": "1 day",
       "preco": "R$ 289,90"
     }
   ]
